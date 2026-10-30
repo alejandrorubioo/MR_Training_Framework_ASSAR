@@ -1,8 +1,6 @@
 # Mixed Reality Training Framework (ASSAR)
 
-University team project, 2022. Republished from the team's original repository, which stays private: 433 commits across all branches (June 2022 to March 2023; 431 of them in 2022) by six contributors, listed under [Team and credits](#team-and-credits). This repository is a clean snapshot with one commit and no old history.
-
-<!-- DEMO VIDEO: pending from owner -->
+Team project built at the ASSAR Industrial Innovation Arena in Skövde, Sweden, in 2022. It was not a university course. I worked across the whole implementation, including the mixed-reality application and the backend. Republished from the team's original repository, which stays private: 433 commits across all branches (June 2022 to March 2023; 431 of them in 2022) by six contributors, listed under [Team and credits](#team-and-credits). This repository is a clean snapshot with one commit and no old history.
 
 > **This project will not open fully as published.** Paid, Asset Store and unclear-licence content has been removed (see [Dependencies not included](#dependencies-not-included)). Scripts will not compile and scenes will show missing references until those dependencies are restored. Read this repository as source code and project structure, not as a ready-to-run build.
 
@@ -18,7 +16,7 @@ A Unity framework for training operators in industrial tasks with a Mixed Realit
 
 `00 Start Scene` is the menu. The interface is localised in English and Swedish.
 
-**ASSAR** is the [ASSAR Industrial Innovation Arena](https://assarinnovation.se/en/) in Skövde, Sweden, an outside organisation named on the logo and banner images of the original project, in its Unity company field and in the `MR_Training_ASSAR` code namespace. The files do not document the formal relationship between the arena and the team. This repository is not published by or on behalf of ASSAR, and its images, logos and videos are not included.
+**ASSAR** is the [ASSAR Industrial Innovation Arena](https://assarinnovation.se/en/) in Skövde, Sweden, where the project was built. It is named in the Unity company field and in the `MR_Training_ASSAR` code namespace. This repository is not published by or on behalf of ASSAR. The original images, logos and videos are not included.
 
 ## Why it is interesting
 
@@ -104,6 +102,6 @@ Earlier scene iterations (`Version 0`, `Testing Scenes`) were left out to keep t
 
 Contributors to the original repository: [@alejandrorubioo](https://github.com/alejandrorubioo), [@marcosfdez99](https://github.com/marcosfdez99), [@Ensoga](https://github.com/Ensoga), [@pbeigve](https://github.com/pbeigve), [@alexmolera](https://github.com/alexmolera), [@Curr0Jimenez](https://github.com/Curr0Jimenez).
 
-Alejandro Rubio ([@alejandrorubioo](https://github.com/alejandrorubioo)) shared design, development and implementation on equal terms with the team. The project's in-app credits also list Santiago Molina.
+Alejandro Rubio ([@alejandrorubioo](https://github.com/alejandrorubioo)): team project; I worked across the whole implementation, including the mixed-reality application and the backend. The project's in-app credits also list Santiago Molina.
 
 Rights remain with the authors; a licence is pending.
