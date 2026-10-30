@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ChangeIdiom Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ChangeIdiom
+  m_TableCollectionNameGuidString: 78ddd6f2a7b343247a8941912db51034
+  m_Entries:
+  - m_Id: 8889266176
+    m_Key: TextLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124282957824
+    m_Key: TextInitialShowcases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16035966578688
+    m_Key: TextSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16108909719552
+    m_Key: TextAboutUs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14742686494720
+    m_Key: TextChangeShowcase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17756348444672
+    m_Key: TextLayerControl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17893011451904
+    m_Key: TextTechOverview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17948678254592
+    m_Key: TextMenuChange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18095806050304
+    m_Key: TextYes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18145634381824
+    m_Key: TextNo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18190865756160
+    m_Key: TextMenuInfoWelding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18317533736960
+    m_Key: TextStepInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812091830218752
+    m_Key: TextQuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13082306043932672
+    m_Key: TextMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13083194527543296
+    m_Key: TextDeve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13085653362765824
+    m_Key: TextExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135076776177664
+    m_Key: TextMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135292958994432
+    m_Key: TextRemoveMask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135939020222464
+    m_Key: TextSkip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136242603945984
+    m_Key: TextBack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136483147280384
+    m_Key: TextNext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136735065567232
+    m_Key: TextReset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138263130206208
+    m_Key: TextWO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138617485979648
+    m_Key: TextHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138766358605824
+    m_Key: TextRT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28301537429647360
+    m_Key: TextEndMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28301888035713024
+    m_Key: TextMainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28302292601499648
+    m_Key: TextRepeatProcess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28305346558128128
+    m_Key: TextExitProgram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28306140854448128
+    m_Key: TextMenuInfoMBS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30891265605726208
+    m_Key: TextManualMode
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1657007078115

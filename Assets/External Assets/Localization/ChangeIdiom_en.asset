@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ChangeIdiom_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 78ddd6f2a7b343247a8941912db51034, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8889266176
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13082306043932672
+    m_Localized: MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124282957824
+    m_Localized: "Hi! Welcome to the training project, \nhere you will find up to
+      3 different \nshowcases, welding, battery and MBS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14742686494720
+    m_Localized: CHANGE SHOWCASE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16035966578688
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16108909719552
+    m_Localized: ABOUT US
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17756348444672
+    m_Localized: LAYER CONTROL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18190865756160
+    m_Localized: "Welding showcase: You will perform a training for a human robot
+      collaboration welding process.\nIt will be necessary that you follow the steps
+      indicated in this intruction panel. \nChange between different modes in \"Tech
+      Overview\". \n\nActivate/deactivate different layers in \"Layer Control\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17893011451904
+    m_Localized: TECH OVERVIEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17948678254592
+    m_Localized: 'Are you sure you want to change the showcase?
+
+      (The progress
+      will be lost)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18095806050304
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18145634381824
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18317533736960
+    m_Localized: Step Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812091830218752
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13083194527543296
+    m_Localized: Developed by the project team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13085653362765824
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135076776177664
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135292958994432
+    m_Localized: "Remove \nmask"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135939020222464
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136242603945984
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136483147280384
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136735065567232
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138263130206208
+    m_Localized: 'Work
+
+      object'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138617485979648
+    m_Localized: "Human \nTools"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138766358605824
+    m_Localized: 'Robot
+
+      Tools'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28301537429647360
+    m_Localized: "Well Done! \nDo you want to repeat the process\nor go back to the
+      main menu?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28301888035713024
+    m_Localized: 'Main
+
+      Menu'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28302292601499648
+    m_Localized: 'Repeat
+
+      Process'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28305346558128128
+    m_Localized: Are you sure you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28306140854448128
+    m_Localized: "MBS showcase: You will perform a training for an assembly process
+      as well as HMI supervision.\nIt will be necessary that you follow the steps
+      indicated in this intruction panel. \nChange between different modes in \"Tech
+      Overview\". \nActivate/deactivate different layers in \"Layer Control\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30891265605726208
+    m_Localized: Manual Mode
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

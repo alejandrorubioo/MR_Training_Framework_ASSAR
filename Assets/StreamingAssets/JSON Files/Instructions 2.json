@@ -1,0 +1,110 @@
+{
+    "Items": [
+
+        {
+            "tag": 1,
+            "step": 1,
+            "infoContent": "Press start and wait for the robot to bring the box down part."
+        },
+        {
+            "tag": 1,
+            "step": 3,
+            "infoContent": "Press start and wait for the robot to bring the battery."
+        },
+        {
+            "tag": 1,
+            "step": 4,
+            "infoContent": "Put glue on the battery."
+        },
+        {
+            "tag": 1,
+            "step": 5,
+            "infoContent": "Press place and wait for the robot to put battery on the box down part."
+        },
+        {
+            "tag": 1,
+            "step": 6,
+            "infoContent": "Repeat same process for each battery. (x4)"
+        },
+        {
+            "tag": 1,
+            "step": 7,
+            "infoContent": "Press wires and wait for the robot to bring the wires."
+        },
+        {
+            "tag": 1,
+            "step": 8,
+            "infoContent": "Take the wires and place them on the highlighted position."
+        },
+        {
+            "tag": 1,
+            "step": 9,
+            "infoContent": "Press place and wait for the robot to put battery on the box up part."
+        },
+        {
+            "tag": 1,
+            "step": 10,
+            "infoContent": "Press finish and wait for the robot to put battery on the AGV."
+        },
+        {
+            "tag": 1,
+            "step": 11,
+            "infoContent": "AGV takes the battery away."
+        },
+        {
+            "tag": 2,
+            "step": 1,
+            "infoContent": "Ta på dig skyddshandskarna."
+        },
+        {
+            "tag": 2,
+            "step": 2,
+            "infoContent": "Tryck “start” och vänta på att roboten hämtar boxens bottendel."
+        },
+        {
+            "tag": 2,
+            "step": 3,
+            "infoContent": "Tryck “start” och vänta på att roboten kommer med batteriet."
+        },
+        {
+            "tag": 2,
+            "step": 4,
+            "infoContent": "Lägg lim på batteriet."
+        },
+        {
+            "tag": 2,
+            "step": 5,
+            "infoContent": "Tryck på “placera” och vänta på att roboten ska placera batteriet på boxens underdel. "
+        },
+        {
+            "tag": 2,
+            "step": 6,
+            "infoContent": "Upprepa samma process för varje batteri. (x4)"
+        },
+        {
+            "tag": 2,
+            "step": 7,
+            "infoContent": "Tryck “kabel” och vänta på att roboten ska komma med kablarna. "
+        },
+        {
+            "tag": 2,
+            "step": 8,
+            "infoContent": "Ta kablarna och placera dem på den markerade platsen."
+        },
+        {
+            "tag": 2,
+            "step": 9,
+            "infoContent": "Tryck “placera” och vänta på att roboten ska placera batteriet på boxens övre del. "
+        },
+        {
+            "tag": 2,
+            "step": 10,
+            "infoContent": "Tryck “avsluta” och vänta på att roboten placerar batteriet på AGV."
+        },
+        {
+            "tag": 2,
+            "step": 11,
+            "infoContent": "AGV tar med sig batteriet."
+        }
+    ]
+}

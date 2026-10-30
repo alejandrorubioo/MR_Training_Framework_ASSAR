@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - Cube
+  - Implemented Menus
+  - Menu Display
+  - Menu Container
+  - Align
+  - g4a firstlight
+  - g4a sun
+  - g4a secondlight
+  - Can
+  - Object Control
+  - Work Object Behaviour
+  - Human Tool Behaviour
+  - Robot Behaviour
+  - Work Object
+  - Human Tool
+  - Robot
+  - Robot Tool
+  - Rod1
+  - Rod2
+  - base
+  - middle
+  - wall1
+  - wall2
+  - Holder
+  - Earth_Set
+  - Welding_Mask
+  - BoxUp
+  - BoxDown
+  - Battery
+  - ScrewInvisible
+  - Bot
+  - Pallet
+  - Top
+  - Screw
+  - Invisible
+  - ScrewMagnet
+  - DinamicParent
+  - ScrewDrill
+  - Wire
+  - AssembleDone
+  - VirtualRobotInvisible
+  - RealRobotInvisible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - HANDS
+  - Water
+  - UI
+  - MagneticStaticWO
+  - MagneticDynamicWO
+  - Raycast
+  - WeldingTools
+  - WeldingWO
+  - Menu1
+  - 
+  - g4a Debug
+  - g4a Controller
+  - g4a Lamps
+  - g4a SensorMU
+  - g4a TransportMU
+  - g4a Sensor
+  - g4a Transport
+  - g4a MU
+  - g4a Postprocessing
+  - g4a Snapping
+  - Feeder
+  - EndEffector
+  - Battery
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

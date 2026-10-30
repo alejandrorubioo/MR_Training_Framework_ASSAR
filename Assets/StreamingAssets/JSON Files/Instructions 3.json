@@ -1,0 +1,75 @@
+
+{
+    "Items": [
+        {
+            "tag": 1,
+            "step": 1,
+            "infoContent": "Press Voltage ON Button, press Auto Mode Button and hold Cycle Start for 3 seconds. Then wait for the conveyor to bring the parts."
+        },
+		{
+            "tag": 1,
+            "step": 2,
+            "infoContent": "Take and put the first gear."
+        },
+        {
+            "tag": 1,
+            "step": 3,
+            "infoContent": "Take and put the second gear."
+        },
+	  {
+            "tag": 1,
+            "step": 4,
+            "infoContent": "Take the up part and put it on the MBS."
+        },
+        {
+            "tag": 1,
+            "step": 5,
+            "infoContent": "Take the screws and put it on their places highlighted."
+        },
+        {
+            "tag": 1,
+            "step": 6,
+            "infoContent": "Take the drill and tight the screws."
+        },
+	  {
+            "tag": 1,
+            "step": 7,
+            "infoContent": "Put the drill away on the highlighted place."
+        },
+		{
+            "tag": 2,
+            "step": 1,
+            "infoContent": "Wait for the conveyor to bring the parts."
+        },
+        {
+            "tag": 2,
+            "step": 2,
+            "infoContent": "Ta den första axeln och sätt den på plats."
+        },
+        {
+            "tag": 2,
+            "step": 3,
+            "infoContent": "Ta den andra axeln och sätt den på plats."
+        },
+	  {
+            "tag": 2,
+            "step": 4,
+            "infoContent": "Ta den övre delen och placera den på arbetsbordet."
+        },
+        {
+            "tag": 2,
+            "step": 5,
+            "infoContent": "Ta skruvarna från hyllan bakom dig och placera dem på de markerade platserna."
+        },
+        {
+            "tag": 2,
+            "step": 6,
+            "infoContent": "Ta borren och dra åt skruvarna."
+        },
+	  {
+            "tag": 2,
+            "step": 7,
+            "infoContent": "Ta borren och dra åt skruvarna."
+        }
+    ]
+}

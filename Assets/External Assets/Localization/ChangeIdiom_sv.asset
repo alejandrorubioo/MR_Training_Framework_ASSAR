@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ChangeIdiom_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 78ddd6f2a7b343247a8941912db51034, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8889266176
+    m_Localized: "SPR\xC5K"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13082306043932672
+    m_Localized: "L\xC4GE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124282957824
+    m_Localized: "Hej! V\xE4lkommen till utbildningsprojektet,\r\nh\xE4r hittar du
+      upp till 3 olika\r\nmontrar, svetsning, batteri och MBS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14742686494720
+    m_Localized: "\xC4NDRA SHOWCASE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16035966578688
+    m_Localized: "INST\xC4LLNINGAR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16108909719552
+    m_Localized: OM OSS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18095806050304
+    m_Localized: JA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18145634381824
+    m_Localized: NEJ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18317533736960
+    m_Localized: Steg Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17948678254592
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill \xE4ndra skyltf\xF6nstret?\r\n(Framstegen
+      kommer att g\xE5 f\xF6rlorade)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17893011451904
+    m_Localized: "TEKNISK\n\xD6VERSIKT"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17756348444672
+    m_Localized: 'LAGER
+
+      KONTROLLERA'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18190865756160
+    m_Localized: "Svetsvisning: Du kommer att genomf\xF6ra en utbildning f\xF6r en
+      svetsprocess f\xF6r m\xE4nsklig robotsamverkan.\r\nDet kommer att vara n\xF6dv\xE4ndigt
+      att du f\xF6ljer stegen som anges i denna instruktionspanel.\r\nByt mellan
+      olika l\xE4gen i \"Teknisk \xF6versikt\".\r\n\r\nAktivera/avaktivera olika
+      lager i \"Layer Control\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812091830218752
+    m_Localized: SLUTA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13083194527543296
+    m_Localized: Utvecklad av projektgruppen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13085653362765824
+    m_Localized: "Utg\xE5ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135076776177664
+    m_Localized: Meny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135292958994432
+    m_Localized: 'Ta bort
+
+      masken'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13135939020222464
+    m_Localized: "Hoppa \xF6ver"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136242603945984
+    m_Localized: "Bak\xE5t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136483147280384
+    m_Localized: "N\xE4sta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13136735065567232
+    m_Localized: "\xC5terst\xE4ll"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138263130206208
+    m_Localized: 'Arbets
+
+      objekt'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138617485979648
+    m_Localized: 'Verktyg '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13138766358605824
+    m_Localized: "Verktyg \nf\xF6r robot\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28301537429647360
+    m_Localized: "Bra gjort!\r\nVill du upprepa processen\r\neller g\xE5 tillbaka
+      till huvudmenyn?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28301888035713024
+    m_Localized: Huvudmeny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28302292601499648
+    m_Localized: 'Upprepa
+
+      Bearbeta'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28305346558128128
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill avsluta?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28306140854448128
+    m_Localized: "MBS showcase: Du kommer att genomf\xF6ra en utbildning f\xF6r en
+      monteringsprocess samt HMI-\xF6vervakning.\r\n\r\nDet kommer att vara n\xF6dv\xE4ndigt
+      att du f\xF6ljer stegen som anges i denna instruktionspanel.\r\n\r\nByt mellan
+      olika l\xE4gen i \"Teknisk \xF6versikt\".\r\n\r\nAktivera/avaktivera olika
+      lager i \"Layer Control\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30891265605726208
+    m_Localized: "\rManuellt l\xE4ge"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

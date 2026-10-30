@@ -1,0 +1,139 @@
+{
+    "Items": [
+        {
+            "tag": 0,
+            "step": 1,
+            "infoContent": "Take the base part from the tool shelf and put it on the table."
+        },
+        {
+            "tag": 0,
+            "step": 2,
+            "infoContent": "Take the back part from the tool shelf and put it on the table."
+        },
+        {
+            "tag": 0,
+            "step": 3,
+            "infoContent": "Connect the welding tweezers from the shelf, to your working table on the highlighted spot. Then put on the welding mask from the tool shelf."
+        },
+        {
+            "tag": 0,
+            "step": 4,
+            "infoContent": "Take the welding gun from the tool shelf and make the weld on the highlighted spot."
+        },
+        {
+            "tag": 0,
+            "step": 5,
+            "infoContent": "Put the welding gun back in the tool shelf."
+        },
+        {
+            "tag": 0,
+            "step": 6,
+            "infoContent": "Take the left part from the tool shelf and put it on the table."
+        },
+        {
+            "tag": 0,
+            "step": 7,
+            "infoContent": "Take the welding gun from the tool shelf and make the weld on the highlighted spots."
+        },
+        {
+            "tag": 0,
+            "step": 8,
+            "infoContent": "Put the welding gun back in the tool shelf."
+        },
+        {
+            "tag": 0,
+            "step": 9,
+            "infoContent": "Take the right part from the tool shelf and put it on the table."
+        },
+        {
+            "tag": 0,
+            "step": 10,
+            "infoContent": "Take the welding gun from the tool shelf and make the weld on the highlighted spots."
+        },
+        {
+            "tag": 0,
+            "step": 11,
+            "infoContent": "Put the welding gun back in the tool shelf."
+        },
+        {
+            "tag": 0,
+            "step": 12,
+            "infoContent": "Step back and wait for the robot to finish the welding."
+        },
+        {
+            "tag": 0,
+            "step": 13,
+            "infoContent": "Congratulations! You have finished the training process."
+        },
+        {
+            "tag": 1,
+            "step": 1,
+            "infoContent": "Ta bottendelen från verktygshyllan och placera den på bordet."
+        },
+        {
+            "tag": 1,
+            "step": 2,
+            "infoContent": "Ta bakdelen från verktygshyllan och placera den på bordet."
+        },
+        {
+            "tag": 1,
+            "step": 3,
+            "infoContent": "Ta svetsverktyget från hyllan till och anslut den till den markerade platsen på arbetsbordet. Hämta svetsmasken från verktygshyllan och sätt på dig den."
+        },
+        {
+            "tag": 1,
+            "step": 4,
+            "infoContent": "Ta svetspistolen från verktygshyllan och svetsa på den markerade platsen."
+        },
+        {
+            "tag": 1,
+            "step": 5,
+            "infoContent": "Ta av dig masken och pistolen."
+        },
+        {
+            "tag": 1,
+            "step": 6,
+            "infoContent": "Ta biten till vänster på verktygshyllan och lägg på bordet."
+        },
+        {
+            "tag": 1,
+            "step": 7,
+            "infoContent": "Ta svetsverktyget från hyllan till och anslut den till den markerade platsen på arbetsbordet. Hämta svetsmasken från verktygshyllan och sätt på dig den."
+        },
+        {
+            "tag": 1,
+            "step": 8,
+            "infoContent": "Ta svetspistolen från verktygshyllan och svetsa på den markerade platsen."
+        },
+        {
+            "tag": 1,
+            "step": 9,
+            "infoContent": "Ta av dig masken och pistolen."
+        },
+        {
+            "tag": 1,
+            "step": 10,
+            "infoContent": "Ta biten till höger på verktygshyllan och lägg på bordet."
+        },
+        {
+            "tag": 1,
+            "step": 11,
+            "infoContent": "Ta svetsverktyget från hyllan till och anslut den till den markerade platsen på arbetsbordet. Hämta svetsmasken från verktygshyllan och sätt på dig den."
+        },
+        {
+            "tag": 1,
+            "step": 12,
+            "infoContent": "Ta svetspistolen från verktygshyllan och svetsa på den markerade platsen."
+        },
+        {
+            "tag": 1,
+            "step": 13,
+            "infoContent": "Backa till säkerhetszonen (Bakom panelen till höger om dig)."
+        },
+        {
+            "tag": 1,
+            "step": 14,
+            "infoContent": "Grattis! Du har avslutat utbildningsprocessen."
+        }
+    ]
+}
